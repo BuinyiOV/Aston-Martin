@@ -1,0 +1,272 @@
+@keyframes animationright {
+  0% {
+    -webkit-background-position: 0% 50%;
+    background-position: 0% 50%;
+  }
+  100% {
+    -webkit-background-position: 100% 50%;
+    background-position: 100% 50%;
+  }
+}
+@keyframes animationleft {
+  0% {
+    -webkit-background-position: 100% 50%;
+    background-position: 100% 50%;
+  }
+  100% {
+    -webkit-background-position: 0% 50%;
+    background-position: 0% 50%;
+  }
+}
+@keyframes backgroundgradient {
+  0% {
+    -webkit-background-position: 0% 50%;
+    background-position: 0% 50%;
+  }
+  50% {
+    -webkit-background-position: 60% 50%;
+    background-position: 60% 50%;
+  }
+  100% {
+    -webkit-background-position: 0% 50%;
+    background-position: 0% 50%;
+  }
+}
+@keyframes animationskill {
+  0% {
+    -webkit-background-position: 100% 50%;
+    background-position: 100% 50%;
+  }
+  100% {
+    -webkit-background-position: 0% 50%;
+    background-position: 0% 50%;
+  }
+}
+@keyframes animationname {
+  0% {
+    -webkit-letter-spacing: 0.02em;
+    letter-spacing: 0.02em;
+    -webkit-font-size: 25px;
+    font-size: 25px;
+  }
+  45% {
+    -webkit-letter-spacing: 0.02em;
+    letter-spacing: 0.02em;
+    -webkit-font-size: 25px;
+    font-size: 25px;
+  }
+  50% {
+    -webkit-letter-spacing: 0.1em;
+    letter-spacing: 0.1em;
+    -webkit-font-size: 26px;
+    font-size: 26px;
+  }
+  55% {
+    -webkit-letter-spacing: 0.02em;
+    letter-spacing: 0.02em;
+    -webkit-font-size: 25px;
+    font-size: 25px;
+  }
+  100% {
+    -webkit-letter-spacing: 0.02em;
+    letter-spacing: 0.02em;
+    -webkit-font-size: 25px;
+    font-size: 25px;
+  }
+}
+@keyframes text-pop-up {
+  0% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    -webkit-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    -webkit-transform: scale(1) rotateX(0);
+    transform: scale(1) rotateX(0);
+    -webkit-text-shadow: 0 0 15px white, 0 0 15px white;
+    text-shadow: 0 0 15px white, 0 0 15px white;
+    -webkit-font-size: 2.5rem;
+    font-size: 2.5rem;
+  }
+  50% {
+    -webkit-transform: translateY(-30px);
+    transform: translateY(-30px);
+    -webkit-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    -webkit-text-shadow: 0 0 5px white, 0 0 5px white;
+    text-shadow: 0 0 5px white, 0 0 5px white;
+    -webkit-font-size: 3rem;
+    font-size: 3rem;
+  }
+  100% {
+    -webkit-transform: translateY(-20px);
+    transform: translateY(-20px);
+    -webkit-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    -webkit-text-shadow: 0 0 15px white, 0 0 15px white;
+    text-shadow: 0 0 15px white, 0 0 15px white;
+    -webkit-font-size: 2.5rem;
+    font-size: 2.5rem;
+  }
+}
+@keyframes animationpointer {
+  0% {
+    -webkit-width: 5px;
+    width: 5px;
+    -webkit-height: 5px;
+    height: 5px;
+  }
+  60% {
+    -webkit-width: 45px;
+    width: 45px;
+    -webkit-height: 45px;
+    height: 45px;
+    -webkit-top: 100%;
+    top: 100%;
+    -webkit-opacity: 0;
+    opacity: 0;
+  }
+  100% {
+    -webkit-width: 50px;
+    width: 50px;
+    -webkit-height: 50px;
+    height: 50px;
+    -webkit-top: 100%;
+    top: 100%;
+  }
+}
+@-webkit-keyframes animationright {
+  0% {
+    -webkit-background-position: 0% 50%;
+    background-position: 0% 50%;
+  }
+  100% {
+    -webkit-background-position: 100% 50%;
+    background-position: 100% 50%;
+  }
+}
+@-webkit-keyframes animationleft {
+  0% {
+    -webkit-background-position: 100% 50%;
+    background-position: 100% 50%;
+  }
+  100% {
+    -webkit-background-position: 0% 50%;
+    background-position: 0% 50%;
+  }
+}
+@-webkit-keyframes backgroundgradient {
+  0% {
+    -webkit-background-position: 0% 50%;
+    background-position: 0% 50%;
+  }
+  50% {
+    -webkit-background-position: 60% 50%;
+    background-position: 60% 50%;
+  }
+  100% {
+    -webkit-background-position: 0% 50%;
+    background-position: 0% 50%;
+  }
+}
+@-webkit-keyframes animationskill {
+  0% {
+    -webkit-background-position: 100% 50%;
+    background-position: 100% 50%;
+  }
+  100% {
+    -webkit-background-position: 0% 50%;
+    background-position: 0% 50%;
+  }
+}
+@-webkit-keyframes animationname {
+  0% {
+    -webkit-letter-spacing: 0.02em;
+    letter-spacing: 0.02em;
+    -webkit-font-size: 25px;
+    font-size: 25px;
+  }
+  45% {
+    -webkit-letter-spacing: 0.02em;
+    letter-spacing: 0.02em;
+    -webkit-font-size: 25px;
+    font-size: 25px;
+  }
+  50% {
+    -webkit-letter-spacing: 0.1em;
+    letter-spacing: 0.1em;
+    -webkit-font-size: 26px;
+    font-size: 26px;
+  }
+  55% {
+    -webkit-letter-spacing: 0.02em;
+    letter-spacing: 0.02em;
+    -webkit-font-size: 25px;
+    font-size: 25px;
+  }
+  100% {
+    -webkit-letter-spacing: 0.02em;
+    letter-spacing: 0.02em;
+    -webkit-font-size: 25px;
+    font-size: 25px;
+  }
+}
+@-webkit-keyframes text-pop-up {
+  0% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    -webkit-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    -webkit-transform: scale(1) rotateX(0);
+    transform: scale(1) rotateX(0);
+    -webkit-text-shadow: 0 0 15px white, 0 0 15px white;
+    text-shadow: 0 0 15px white, 0 0 15px white;
+    -webkit-font-size: 2.5rem;
+    font-size: 2.5rem;
+  }
+  50% {
+    -webkit-transform: translateY(-30px);
+    transform: translateY(-30px);
+    -webkit-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    -webkit-text-shadow: 0 0 5px white, 0 0 5px white;
+    text-shadow: 0 0 5px white, 0 0 5px white;
+    -webkit-font-size: 3rem;
+    font-size: 3rem;
+  }
+  100% {
+    -webkit-transform: translateY(-20px);
+    transform: translateY(-20px);
+    -webkit-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    -webkit-text-shadow: 0 0 15px white, 0 0 15px white;
+    text-shadow: 0 0 15px white, 0 0 15px white;
+    -webkit-font-size: 2.5rem;
+    font-size: 2.5rem;
+  }
+}
+@-webkit-keyframes animationpointer {
+  0% {
+    -webkit-width: 5px;
+    width: 5px;
+    -webkit-height: 5px;
+    height: 5px;
+  }
+  60% {
+    -webkit-width: 45px;
+    width: 45px;
+    -webkit-height: 45px;
+    height: 45px;
+    -webkit-top: 100%;
+    top: 100%;
+    -webkit-opacity: 0;
+    opacity: 0;
+  }
+  100% {
+    -webkit-width: 50px;
+    width: 50px;
+    -webkit-height: 50px;
+    height: 50px;
+    -webkit-top: 100%;
+    top: 100%;
+  }
+}
